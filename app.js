@@ -1,1 +1,1 @@
-console.log("Ejecutandoe l sistema")
+console.log("Ejecutandoe el sistema de registros")
